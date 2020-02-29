@@ -1,2 +1,0 @@
-# GoldFB
-GoldFB.py
